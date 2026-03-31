@@ -1,38 +1,19 @@
-# ── Core
-numpy>=1.24.0
-pandas>=2.0.0
-scikit-learn>=1.3.0
+# Core
+numpy
+pandas
+scikit-learn
 
-# ── NLP & Embeddings
-transformers>=4.36.0
-sentence-transformers>=2.2.2
-torch>=2.1.0
+# Visualization
+plotly
+matplotlib
 
-# ── Clustering & Dimensionality Reduction
-hdbscan>=0.8.33
-umap-learn>=0.5.5
+# Fairness
+fairlearn
 
-# ── Fairness
-fairlearn>=0.10.0
+# UI
+gradio
 
-# ── Explainability
-shap>=0.44.0
-
-# ── Visualization
-plotly>=5.18.0
-matplotlib>=3.8.0
-seaborn>=0.13.0
-
-# ── PDF Report
-reportlab>=4.0.0
-
-# ── Gemini LLM
-google-generativeai>=0.3.0
-
-# ── Gradio UI
-gradio>=4.0.0
-
-# ── Utilities
-scipy>=1.11.0
-tqdm>=4.66.0
-Pillow>=10.0.0
+# Utilities
+scipy
+tqdm
+Pillow
