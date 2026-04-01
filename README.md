@@ -19,7 +19,7 @@ The system combines unsupervised learning (HDBSCAN), dimensionality reduction (U
 
 ## Try It Live
 
-👉 [Click Here to View Live Demo](https://your-deployment-link.com)
+👉 [Click Here to View Live Demo](https://huggingface.co/spaces/thesatyajit/ClinicalFairness)
 
 ---
 
